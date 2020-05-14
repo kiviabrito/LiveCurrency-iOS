@@ -1,4 +1,4 @@
-# PicDog Android App - Kotlin
+# Live Currency Android App - Kotlin
 
 ## English
 
