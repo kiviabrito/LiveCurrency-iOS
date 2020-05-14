@@ -1,4 +1,4 @@
-# Live Currency for iOS - Swift
+# Live Currency for iOS - Swift5
 
 ## Functionality
 
